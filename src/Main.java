@@ -33,12 +33,12 @@ public class Main {
 
 
         //Icon Image
-        Image icon = Toolkit.getDefaultToolkit().getImage("src/Image/icon.png");
+        Image icon = Toolkit.getDefaultToolkit().getImage("../src/Image/icon.png");
         frame.setIconImage(icon);
 
 
         //BackgroundImage
-        frame .setContentPane(new JLabel(new ImageIcon("src/Image/pho1.jpg")));
+        frame .setContentPane(new JLabel(new ImageIcon("../src/Image/pho1.jpg")));
 
 
         //Button
