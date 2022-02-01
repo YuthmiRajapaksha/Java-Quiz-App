@@ -14,12 +14,12 @@ public class FourthFrame {
         frame4.setResizable(false);
 
         //Icon Image
-        Image icon = Toolkit.getDefaultToolkit().getImage("../src/Image/icon.png");
+        Image icon = Toolkit.getDefaultToolkit().getImage("../../../src/Image/icon.png");
         frame4.setIconImage(icon);
 
 
         //BackgroundImage
-        frame4 .setContentPane(new JLabel(new ImageIcon("../src/Image/thank-you.png")));
+        frame4 .setContentPane(new JLabel(new ImageIcon("../../../src/Image/thank-you.png")));
 
 
         //Button

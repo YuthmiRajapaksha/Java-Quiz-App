@@ -38,7 +38,7 @@ public class ThirdFrame {
                 frame3.setResizable(false);
 
                 //Icon Image
-                Image icon = Toolkit.getDefaultToolkit().getImage("../src/Image/icon.png");
+                Image icon = Toolkit.getDefaultToolkit().getImage("../../../src/Image/icon.png");
                 frame3.setIconImage(icon);
 
                 //Check Box

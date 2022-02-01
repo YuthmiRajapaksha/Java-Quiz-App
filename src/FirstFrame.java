@@ -41,7 +41,7 @@ public class FirstFrame {
 
 
        //Icon Image
-       Image icon = Toolkit.getDefaultToolkit().getImage("../src/Image/icon.png");
+       Image icon = Toolkit.getDefaultToolkit().getImage("../../../src/Image/icon.png");
        frame1.setIconImage(icon);
 
         //Disable Maximize button

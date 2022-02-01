@@ -39,7 +39,7 @@ public class SecondFrame {
         frame2.setResizable(false);
 
         //Icon Image
-        Image icon = Toolkit.getDefaultToolkit().getImage("../src/Image/icon.png");
+        Image icon = Toolkit.getDefaultToolkit().getImage("../../../src/Image/icon.png");
         frame2.setIconImage(icon);
 
         //Check Box
